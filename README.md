@@ -39,6 +39,21 @@ VIDEO
 
 https://youtu.be/Tox69StVBQo
 
+7.CONCLUSIONES
+
+El teorema de la máxima potencia de transferencia explica cómo aprovechar al máximo la energía que proporcionan los elementos en un circuito.
+
+La máxima potencia transferida a una carga en una red resistiva se logra haciendo que la carga tenga la misma resistencia que la resistencia Thevenin equivalente del circuito.
+
+Se logró identificar que, para una fuente de voltaje dada, la potencia máxima se transfiere desde una fuente hasta una carga cuando la resistencia de la carga es igual a la resistencia interna de la fuente, mediante haber armado y probado el circuito en Tinkercad.
+
+Se pudo determinar que el teorema de la máxima transferencia de potencia se relaciona con el teorema de Thévenin, ya que este usa dicho circuito equivalente, con una resistencia y su carga de salida.
+
+8.BIBLIOGRAFÍA
+
+Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
+
+
 
 
 
